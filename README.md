@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<iframe src="https://music.youtube.com/watch?v=5mHzaIehRTE&list=RDAMVM5mHzaIehRTE" />
-
 <!--
 **justAnArthur/justAnArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
