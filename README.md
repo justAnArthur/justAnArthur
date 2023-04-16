@@ -2,8 +2,6 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=justAnArthur&stroke=blue)
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=justAnArthur&langs_count=5&theme=tokyonight)
-
 <!--
 **justAnArthur/justAnArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
